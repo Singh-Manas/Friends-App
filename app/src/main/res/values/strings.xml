@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="friends_app">Friends App</string>
+    <string name="amit_saini">Amit Saini</string>
+    <string name="hello_hi">Hello Hi</string>
+    <string name="hardeep_singh">Hardeep Singh</string>
+    <string name="hello">Hello</string>
+    <string name="hritik_kumar">Hritik Kumar</string>
+    <string name="jayesh_budhwani">Jayesh Budhwani</string>
+    <string name="mohit_prajapat">Mohit Prajapat</string>
+</resources>
